@@ -1,0 +1,19 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1 {
+    color: red;
+    background-color: green;
+    font-weight: 900;
+}
+body {
+    color: chocolate;
+    background-color: cyan;
+    }
+p {
+    color: darkmagenta;
+    background-color: darksalmon;
+}
+q{
+    color: yellow;
+}
