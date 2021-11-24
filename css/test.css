@@ -1,0 +1,72 @@
+.header {
+    display: flex;
+    border-bottom: 1px solid #000;
+    margin-top : 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    align-items: center;
+}
+footer {
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body {
+    font-family: 'Roboto' , sans-serif;
+    line-height: 1.5;
+}
+a {
+    color: rebeccapurple;
+    font-weight: 700;
+    text-decoration: none;
+}
+h1, h2, h3 {
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.logo {
+    margin-right: 50px;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: lightgreen;
+    background: rebeccapurple;
+    font-weight: 700;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+ul > li {
+    margin-right: 30px;
+}
+ul > li:last-child {
+    margin-right: 0;
+}
+.box {
+    display: flex;
+    margin-bottom: 30px;
+    gap: 20px;
+    border-bottom: 1px solid #000;
+}
+.aside {
+    background: lavender;
+    padding: 10px 20px;
+ }
+ section {
+     background: lavender;
+     padding: 5px 20px;
+     margin-bottom: 20px;
+ }
+.link  a {
+        background: rebeccapurple;
+        color: white;
+        padding: 8px 15px;
+        margin-left: 10px;
+}
+.post {
+    padding-bottom: 20px;
+}
